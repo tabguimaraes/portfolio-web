@@ -400,11 +400,15 @@ footer {
 	justify-content: center;
 <<<<<<< Updated upstream
 	width: 18vw;
+<<<<<<< HEAD
 	/* height: 25vw; */
 =======
 	width: 20vw;
 	height: 60vh;
 >>>>>>> Stashed changes
+=======
+	height: 60vh;
+>>>>>>> 56f5638bd438e209812ce044570bf17bbb5f687e
 	position: relative;
 	font-size: 1vw;
 }
@@ -622,7 +626,7 @@ footer {
 
 .sessao-orcamento {
 	/* width: 100vw; */
-	height: 100vh;
+	height: 96vh;
 	object-fit: cover;
 	background: url('../images/bg-orcamento.jpg');
 	display: flex;
