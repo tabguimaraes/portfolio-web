@@ -398,8 +398,13 @@ footer {
 	margin: auto;
 	align-items: center;
 	justify-content: center;
+<<<<<<< Updated upstream
 	width: 18vw;
 	/* height: 25vw; */
+=======
+	width: 20vw;
+	height: 60vh;
+>>>>>>> Stashed changes
 	position: relative;
 	font-size: 1vw;
 }
